@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : [Muhammad Arif Hidayat]  
+NIU : [463609]  
+Sesi : [SESI Jarkom1 (selasa pagi)]  
+Secret String : [9cb43a654c9b1a61bc9a54921ac9e200d34d1c2619acb80833bbbafa35c6677c20230616014129]
 
 ## Checklist Responsi
 
